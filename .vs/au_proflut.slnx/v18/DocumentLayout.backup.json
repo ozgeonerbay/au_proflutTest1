@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,6 +33,10 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CMakeCXXCompilerId.cpp",
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "build\\windows\\x64\\CMakeFiles\\4.1.1-msvc1\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
               "ToolTip": "C:\\Users\\90539\\au_proflut\\build\\windows\\x64\\CMakeFiles\\4.1.1-msvc1\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
               "RelativeToolTip": "build\\windows\\x64\\CMakeFiles\\4.1.1-msvc1\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-24T18:12:47.368Z",
               "EditorCaption": ""
@@ -55,8 +59,7 @@
               "RelativeToolTip": "lib\\main.dart",
               "ViewState": "AgIAAFkAAAAAAAAAAAAUwFkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T13:40:48.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T13:40:48.918Z"
             }
           ]
         }
