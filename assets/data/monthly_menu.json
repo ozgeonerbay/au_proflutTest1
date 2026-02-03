@@ -1,0 +1,11 @@
+[
+  {
+    "date": "2025-02-03",
+    "items": [
+      {"name": "Mercimek Çorbası", "calories": 180},
+      {"name": "Döner", "calories": 350},
+      {"name": "Pirinç Pilavı", "calories": 200},
+      {"name": "Tatlı", "calories": 250}
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "academicYear": "2024-2025",
+  "events": [
+    {"type": "semester_start", "date": "2024-09-16", "titleTr": "Güz Dönemi Başlangıcı", "titleEn": "Fall Semester Start"},
+    {"type": "holiday", "date": "2024-10-29", "titleTr": "Cumhuriyet Bayramı", "titleEn": "Republic Day"},
+    {"type": "exam_week", "date": "2025-01-06", "titleTr": "Güz Dönemi Sınav Haftası", "titleEn": "Fall Semester Exam Week"},
+    {"type": "semester_end", "date": "2025-01-24", "titleTr": "Güz Dönemi Bitişi", "titleEn": "Fall Semester End"},
+    {"type": "semester_start", "date": "2025-02-10", "titleTr": "Bahar Dönemi Başlangıcı", "titleEn": "Spring Semester Start"},
+    {"type": "holiday", "date": "2025-04-23", "titleTr": "Ulusal Egemenlik ve Çocuk Bayramı", "titleEn": "National Sovereignty and Children's Day"},
+    {"type": "exam_week", "date": "2025-06-02", "titleTr": "Bahar Dönemi Sınav Haftası", "titleEn": "Spring Semester Exam Week"},
+    {"type": "semester_end", "date": "2025-06-20", "titleTr": "Bahar Dönemi Bitişi", "titleEn": "Spring Semester End"}
+  ]
+}

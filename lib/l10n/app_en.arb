@@ -1,0 +1,49 @@
+{
+  "@@locale": "en",
+  "appTitle": "School Guide",
+  "menu": "Food Menu",
+  "menuSubtitle": "Daily menus & calories",
+  "shuttle": "Shuttle Times",
+  "shuttleSubtitle": "Service routes",
+  "lecturers": "Lecturers",
+  "lecturersSubtitle": "Office & Email",
+  "calendar": "Academic Calendar",
+  "calendarSubtitle": "Semester, exams, holidays",
+  "searchHint": "Search lecturer name...",
+  "office": "Office",
+  "email": "Email",
+  "lecturerOffices": "Lecturer Offices",
+  "selectLanguage": "Select Language",
+  "turkish": "Türkçe",
+  "english": "English",
+  "loadExcel": "Load from Excel",
+  "noData": "No data found",
+  "error": "Error",
+  "ok": "OK",
+  "menusLoaded": "{count} daily menus loaded",
+  "@menusLoaded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "calories": "Calories",
+  "totalDailyCalories": "Total daily",
+  "mealBreakdown": "Per meal",
+  "weekday": "Weekday",
+  "weekend": "Weekend",
+  "upcomingEvents": "Upcoming events",
+  "semesterStart": "Semester start",
+  "semesterEnd": "Semester end",
+  "examWeek": "Exam week",
+  "holiday": "Holiday",
+  "sendEmail": "Send email",
+  "bakirkoy": "Bakirkoy",
+  "gayrettepe": "Gayrettepe",
+  "mahmutbeyMetro": "Mahmutbey Metro",
+  "yenibosna": "Yenibosna",
+  "emptyMenu": "No menu loaded. Use \"Load from Excel\" to import monthly menu.",
+  "emptyCalendar": "No academic events.",
+  "emptyShuttle": "No shuttle data."
+}

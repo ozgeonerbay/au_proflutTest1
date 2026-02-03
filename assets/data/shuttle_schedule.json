@@ -1,0 +1,39 @@
+{
+  "campuses": [
+    {
+      "id": "bakirkoy",
+      "weekday": [
+        "Mahmutbey → Bakırköy : 07:30 - 11:00 - 16:00",
+        "Bakırköy → Mahmutbey : 08:20 - 12:00 - 17:45"
+      ],
+      "weekend": [
+        "Mahmutbey → Bakırköy : 09:00 - 14:00",
+        "Bakırköy → Mahmutbey : 10:00 - 15:00"
+      ]
+    },
+    {
+      "id": "gayrettepe",
+      "weekday": [
+        "Mahmutbey → Gayrettepe : 07:15 - 12:00 - 16:00",
+        "Gayrettepe → Mahmutbey : 08:40 - 13:00 - 17:45"
+      ],
+      "weekend": []
+    },
+    {
+      "id": "mahmutbey_metro",
+      "weekday": [
+        "Metro → Mahmutbey : 08:10 - 08:20 - 13:00",
+        "Mahmutbey → Metro : 08:15 - 12:45 - 17:30"
+      ],
+      "weekend": []
+    },
+    {
+      "id": "yenibosna",
+      "weekday": [
+        "Mahmutbey → Yenibosna : 14:00 - 16:00",
+        "Yenibosna → Mahmutbey : 07:45 - 08:00"
+      ],
+      "weekend": []
+    }
+  ]
+}
