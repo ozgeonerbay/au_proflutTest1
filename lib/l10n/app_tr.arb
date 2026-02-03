@@ -1,0 +1,49 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Okul Rehberi",
+  "menu": "Yemek Menüsü",
+  "menuSubtitle": "Günlük menüler ve kaloriler",
+  "shuttle": "Servis Saatleri",
+  "shuttleSubtitle": "Servis güzergahları",
+  "lecturers": "Öğretim Görevlileri",
+  "lecturersSubtitle": "Ofis & Mail",
+  "calendar": "Akademik Takvim",
+  "calendarSubtitle": "Dönem, sınavlar, tatiller",
+  "searchHint": "Hoca adı ara...",
+  "office": "Ofis",
+  "email": "Mail",
+  "lecturerOffices": "Hoca Ofisleri",
+  "selectLanguage": "Dil Seç",
+  "turkish": "Türkçe",
+  "english": "English",
+  "loadExcel": "Excel'den Yükle",
+  "noData": "Veri bulunamadı",
+  "error": "Hata",
+  "ok": "Tamam",
+  "menusLoaded": "{count} günlük menü yüklendi",
+  "@menusLoaded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "calories": "Kalori",
+  "totalDailyCalories": "Günlük toplam",
+  "mealBreakdown": "Öğün bazında",
+  "weekday": "Hafta içi",
+  "weekend": "Hafta sonu",
+  "upcomingEvents": "Yaklaşan etkinlikler",
+  "semesterStart": "Dönem başlangıcı",
+  "semesterEnd": "Dönem bitişi",
+  "examWeek": "Sınav haftası",
+  "holiday": "Tatil",
+  "sendEmail": "E-posta gönder",
+  "bakirkoy": "Bakırköy",
+  "gayrettepe": "Gayrettepe",
+  "mahmutbeyMetro": "Mahmutbey Metro",
+  "yenibosna": "Yenibosna",
+  "emptyMenu": "Menü yüklenmedi. Aylık menü için \"Excel'den Yükle\" kullanın.",
+  "emptyCalendar": "Akademik etkinlik yok.",
+  "emptyShuttle": "Servis verisi yok."
+}
